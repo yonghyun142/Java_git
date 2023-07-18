@@ -1,7 +1,9 @@
 package LS;
 
+
 class Circle{
 	double i;
+	
 	
 	public Circle(double i) {
 		
@@ -10,6 +12,7 @@ class Circle{
 		
 		
 	}
+	
 	void pa() {
 		
 		System.out.println(3.14*i*i);
